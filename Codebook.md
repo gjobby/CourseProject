@@ -40,72 +40,68 @@ Body Angular Acceleration Time Standard Deviation
   Time.BodyAngularAcceleration.StandardDeviation.X
   Time.BodyAngularAcceleration.StandardDeviation.Y
   Time.BodyAngularAcceleration.StandardDeviation.Z
-Body Acceleration magnitude Time Mean
-Time.BodyAccelerationMagnitude.Mean
-Time.BodyAccelerationMagnitude.StandardDeviation
-
-Time.GravityAccelerationMagnitude.Mean
-Time.GravityAccelerationMagnitude.StandardDeviation
-
-Time.BodyAccelerationJerkMagnitude.Mean
-Time.BodyAccelerationJerkMagnitude.StandardDeviation
-
-Time.BodyAngularSpeedMagnitude.Mean
-Time.BodyAngularSpeedMagnitude.StandardDeviation
-
-Time.BodyAngularAccelerationMagnitude.Mean
-Time.BodyAngularAccelerationMagnitude.StandardDeviation
-
-Frequency.BodyAcceleration.Mean.X
-Frequency.BodyAcceleration.Mean.Y
-Frequency.BodyAcceleration.Mean.Z
-
-Frequency.BodyAcceleration.StandardDeviation.X
-Frequency.BodyAcceleration.StandardDeviation.Y
-Frequency.BodyAcceleration.StandardDeviation.Z
-
-Frequency.BodyAcceleration.MeanFrequency.X
-Frequency.BodyAcceleration.MeanFrequency.Y
-Frequency.BodyAcceleration.MeanFrequency.Z
-
-Frequency.BodyAccelerationJerk.Mean.X
-Frequency.BodyAccelerationJerk.Mean.Y
-Frequency.BodyAccelerationJerk.Mean.Z
-
-Frequency.BodyAccelerationJerk.StandardDeviation.X
-Frequency.BodyAccelerationJerk.StandardDeviation.Y
-Frequency.BodyAccelerationJerk.StandardDeviation.Z
-
-Frequency.BodyAccelerationJerk.MeanFrequency.X
-Frequency.BodyAccelerationJerk.MeanFrequency.Y
-Frequency.BodyAccelerationJerk.MeanFrequency.Z
-
-Frequency.BodyAngularSpeed.Mean.X
-Frequency.BodyAngularSpeed.Mean.Y
-Frequency.BodyAngularSpeed.Mean.Z
-
-Frequency.BodyAngularSpeed.StandardDeviation.X
-Frequency.BodyAngularSpeed.StandardDeviation.Y
-Frequency.BodyAngularSpeed.StandardDeviation.Z
-
-Frequency.BodyAngularSpeed.MeanFrequency.X
-Frequency.BodyAngularSpeed.MeanFrequency.Y
-Frequency.BodyAngularSpeed.MeanFrequency.Z
-
-Frequency.BodyAccelerationMagnitude.Mean
-Frequency.BodyAccelerationMagnitude.StandardDeviation
+Body Acceleration magnitude Time
+  Time.BodyAccelerationMagnitude.Mean
+  Time.BodyAccelerationMagnitude.StandardDeviation
+Gravity Acceleration Magnitude Time
+  Time.GravityAccelerationMagnitude.Mean
+  Time.GravityAccelerationMagnitude.StandardDeviation
+Body Acceleration Jerk Magnitude Time
+  Time.BodyAccelerationJerkMagnitude.Mean
+  Time.BodyAccelerationJerkMagnitude.StandardDeviation
+Body Angular Speed Magnitude time
+  Time.BodyAngularSpeedMagnitude.Mean
+  Time.BodyAngularSpeedMagnitude.StandardDeviation
+Body Angular Acceleration Magnitude Time
+  Time.BodyAngularAccelerationMagnitude.Mean
+  Time.BodyAngularAccelerationMagnitude.StandardDeviation
+Body Acceleration Frequency Mean
+  Frequency.BodyAcceleration.Mean.X
+  Frequency.BodyAcceleration.Mean.Y
+  Frequency.BodyAcceleration.Mean.Z
+Body Acceleration Frequency Standard deviation
+  Frequency.BodyAcceleration.StandardDeviation.X
+  Frequency.BodyAcceleration.StandardDeviation.Y
+  Frequency.BodyAcceleration.StandardDeviation.Z
+Body Acceleration Frequency Mean
+  Frequency.BodyAcceleration.MeanFrequency.X
+  Frequency.BodyAcceleration.MeanFrequency.Y
+  Frequency.BodyAcceleration.MeanFrequency.Z
+Body Acceleration Jerk Frequency Mean
+  Frequency.BodyAccelerationJerk.Mean.X
+  Frequency.BodyAccelerationJerk.Mean.Y
+  Frequency.BodyAccelerationJerk.Mean.Z
+Body Acceleration Jerk Frequency Standard Deviation
+  Frequency.BodyAccelerationJerk.StandardDeviation.X
+  Frequency.BodyAccelerationJerk.StandardDeviation.Y
+  Frequency.BodyAccelerationJerk.StandardDeviation.Z
+Body Acceleration Jerk Frequency Mean
+  Frequency.BodyAccelerationJerk.MeanFrequency.X
+  Frequency.BodyAccelerationJerk.MeanFrequency.Y
+  Frequency.BodyAccelerationJerk.MeanFrequency.Z
+Body Angular Speed Frequency Mean
+  Frequency.BodyAngularSpeed.Mean.X
+  Frequency.BodyAngularSpeed.Mean.Y
+  Frequency.BodyAngularSpeed.Mean.Z
+Body Angular Speed Frequency Standard Deviation
+  Frequency.BodyAngularSpeed.StandardDeviation.X
+  Frequency.BodyAngularSpeed.StandardDeviation.Y
+  Frequency.BodyAngularSpeed.StandardDeviation.Z
+Bosy Angular Speed Frequency Mean
+  Frequency.BodyAngularSpeed.MeanFrequency.X
+  Frequency.BodyAngularSpeed.MeanFrequency.Y
+  Frequency.BodyAngularSpeed.MeanFrequency.Z
+Body Acceleration magnitude Frequency Mean
+  Frequency.BodyAccelerationMagnitude.Mean
+  Frequency.BodyAccelerationMagnitude.StandardDeviation
 
 Frequency.BodyAccelerationMagnitude.MeanFrequency
 Frequency.BodyBodyAccelerationJerkMagnitude.Mean
-
 Frequency.BodyBodyAccelerationJerkMagnitude.StandardDeviation
 Frequency.BodyBodyAccelerationJerkMagnitude.MeanFrequency
-
 Frequency.BodyBodyAngularSpeedMagnitude.Mean
 Frequency.BodyBodyAngularSpeedMagnitude.StandardDeviation
-
 Frequency.BodyBodyAngularSpeedMagnitude.MeanFrequency
 Frequency.BodyBodyAngularAccelerationMagnitude.Mean
-
 Frequency.BodyBodyAngularAccelerationMagnitude.StandardDeviation
 Frequency.BodyBodyAngularAccelerationMagnitude.MeanFrequency
