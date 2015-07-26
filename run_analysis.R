@@ -50,4 +50,4 @@ names(sensorDataMeanStd) <- gsub('Freq$',"Frequency",names(sensorDataMeanStd))
 
 ## Tidy data set
 sensorAvgByActSub = ddply(sensorDataMeanStd, c("Subject","Activity"), numcolwise(mean))
-write.table(sensorAvgByActSub, file = "sensorAvgByActSub.txt")
+write.table(sensorAvgByActSub, file = "sensorAvgByActSub.txt", row.name=FALSE)
